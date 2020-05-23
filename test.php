@@ -14,7 +14,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
     <hr>
 
-    <p>By creating an account you agree to our <a href="#">Terms & Conditions</a>.</p>
+    <p>By creating an account you agree to our <a href="#">Terms and Conditions</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
